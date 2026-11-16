@@ -15,6 +15,8 @@ Business and freelancer templates by Ahmed Fouad (Excel, Word, PDF, Notion). The
 
 **Contact: hermes.soulmate@gmail.com**
 
+**Best value: all 3 paid kits below in one bundle for $19 instead of $28 - [fouaad.gumroad.com/l/oytfj](https://fouaad.gumroad.com/l/oytfj)**
+
 ### Freelance Client Onboarding Toolkit ($12) - Excel + Word + PDF
 22-page PDF guide, an Excel workbook (rate calculator, project quote builder, retainer builder, outreach tracker, 48-service list) and three editable Word files (service menu, outreach scripts, onboarding and contract checklists).
 Buy: [fouaad.gumroad.com/l/pmnhvv](https://fouaad.gumroad.com/l/pmnhvv) - Notion edition: [Notion Marketplace](https://www.notion.com/templates/freelance-va-starter-toolkit)
