@@ -9,6 +9,39 @@ Designed to stop unpaid discovery, eliminate scope creep, qualify inbound client
 
 ---
 
+## Shop and portfolio
+
+Business and freelancer templates by Ahmed Fouad (Excel, Word, PDF, Notion). The kits below are sold on Gumroad; every preview image is a real page or sheet from the delivered files.
+
+**Contact: hermes.soulmate@gmail.com**
+
+### Freelance Client Onboarding Toolkit ($12) - Excel + Word + PDF
+22-page PDF guide, an Excel workbook (rate calculator, project quote builder, retainer builder, outreach tracker, 48-service list) and three editable Word files (service menu, outreach scripts, onboarding and contract checklists).
+Buy: [fouaad.gumroad.com/l/pmnhvv](https://fouaad.gumroad.com/l/pmnhvv) - Notion edition: [Notion Marketplace](https://www.notion.com/templates/freelance-va-starter-toolkit)
+
+| <img src="docs/previews/cover_pmnhvv.png" alt="Toolkit cover" width="200"> | <img src="docs/previews/pmnhvv_1_rate-calculator.png" alt="Rate calculator sheet" width="200"> | <img src="docs/previews/pmnhvv_3_retainer-builder.png" alt="Retainer builder sheet" width="200"> | <img src="docs/previews/pmnhvv_4_services-list.png" alt="Services list sheet" width="200"> |
+|---|---|---|---|
+
+### Client Onboarding & Operations Kit for Solo Devs ($9) - PDF + SOP templates
+8-page PDF manual plus templates: client intake SOP, MSA/SOW starter contracts, 72-hour onboarding workflow, AI prompt library, delivery sign-off protocol and a pipeline/margin calculator.
+Buy: [fouaad.gumroad.com/l/zbarfx](https://fouaad.gumroad.com/l/zbarfx) - [Indie Hackers product page](https://www.indiehackers.com/product/solopreneur-ai-operations-kit)
+
+| <img src="docs/previews/cover_zbarfx.png" alt="Kit cover" width="200"> | <img src="docs/previews/zbarfx_2_intake-sop.png" alt="Client intake SOP page" width="200"> | <img src="docs/previews/zbarfx_4_onboarding-72h.png" alt="72-hour onboarding page" width="200"> | <img src="docs/previews/zbarfx_7_margin-calculator.png" alt="Margin calculator page" width="200"> |
+|---|---|---|---|
+
+### Project Planning Workbook ($7) - Excel + printable PDF
+15-page printable PDF and a 10-sheet Excel workbook: goal, time blocks, budget with expense log, WORKDAY milestone timeline, tasks with dependencies, resources, risk register and review.
+Buy: [fouaad.gumroad.com/l/zmpbo](https://fouaad.gumroad.com/l/zmpbo)
+
+| <img src="docs/previews/cover_zmpbo.png" alt="Workbook cover" width="200"> | <img src="docs/previews/zmpbo_1_start-here.png" alt="Start Here sheet" width="200"> | <img src="docs/previews/zmpbo_3_milestones.png" alt="Milestones sheet" width="200"> | <img src="docs/previews/zmpbo_4_risks.png" alt="Risks sheet" width="200"> |
+|---|---|---|---|
+
+Also: [Contract & Pricing Starter Kit ($3)](https://fouaad.gumroad.com/l/pfoww). Full shop: **[fouaad.gumroad.com](https://fouaad.gumroad.com)**.
+
+Made with AI assistance: the guides, templates, spreadsheets and cover layouts were drafted with AI tools and reviewed by the maintainer. Templates are general guidance, not legal advice. The preview images and paid kits are not covered by this repository's CC BY 4.0 licence.
+
+---
+
 ## What's Included
 
 ### 1. [Client Intake & Qualification SOP](sop/client-intake-and-qualification-sop.md)
@@ -44,18 +77,7 @@ python calculators/freelance-floor-rate-calculator.py
 
 ## Upgrades & Full Template Kits
 
-If you need complete, pre-built legal contracts, editable spreadsheet financial models, and full Notion workspaces, the paid kits on Gumroad go further (optional; everything in this repo is free to use):
-
-- **[Client Onboarding & Operations Kit for Solo Devs ($9)](https://fouaad.gumroad.com/l/zbarfx)**
-  Complete operations system: Full Intake SOP, editable Master Services Agreement (MSA) & Statement of Work (SOW) legal starter templates, 72-hour client onboarding workflow, AI prompt library for proposals/code review/bug triage, delivery sign-off protocol, and financial pipeline/margin spreadsheet (.csv).
-
-- **[Freelance Client Onboarding Toolkit ($12)](https://fouaad.gumroad.com/l/pmnhvv)**
-  Comprehensive freelance launch pack: 48-item service menu template with pricing benchmarks, Excel rate & quote calculator with embedded formulas, editable Word/DOCX outreach scripts, service agreements, and full Notion workspace bundle.
-
-- **[Contract & Pricing Starter Kit ($3)](https://fouaad.gumroad.com/l/pfoww)**
-  Lean contract essentials: core MSA/SOW agreement templates and margin calculator.
-
-Browse all tools at **[fouaad.gumroad.com](https://fouaad.gumroad.com)**.
+If you need complete, editable contracts, spreadsheets and workbooks, see the paid kits with previews in [Shop and portfolio](#shop-and-portfolio) (optional; everything in this repo is free to use).
 
 ---
 
